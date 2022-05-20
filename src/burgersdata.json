@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Cheeseburger",
+    "variants": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 5,
+        "medium": 6,
+        "large": 7
+      }
+    ],
+    "image": "https://luma-delikatessen.ch/magazin-media/filer_public_thumbnails/filer_public/e4/e6/e4e6d393-1980-4539-8a3b-9165172aebbe/burger-luma-002_low.jpg__1024x768_q85_subsampling-2.jpg",
+    "description": "blablubliblablubli"
+  },
+
+  {
+    "name": "Chickenburger",
+    "variants": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 6,
+        "medium": 7,
+        "large": 8
+      }
+    ],
+    "image": "https://luma-delikatessen.ch/magazin-media/filer_public_thumbnails/filer_public/e4/e6/e4e6d393-1980-4539-8a3b-9165172aebbe/burger-luma-002_low.jpg__1024x768_q85_subsampling-2.jpg",
+    "description": "blablubliblablubli"
+  },
+
+  {
+    "name": "Hamburger",
+    "variants": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 7,
+        "medium": 8,
+        "large": 9
+      }
+    ],
+    "image": "https://luma-delikatessen.ch/magazin-media/filer_public_thumbnails/filer_public/e4/e6/e4e6d393-1980-4539-8a3b-9165172aebbe/burger-luma-002_low.jpg__1024x768_q85_subsampling-2.jpg",
+    "description": "blablubliblablubli"
+  },
+
+  {
+    "name": "Fishburger",
+    "variants": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 5,
+        "medium": 6,
+        "large": 7
+      }
+    ],
+    "image": "https://luma-delikatessen.ch/magazin-media/filer_public_thumbnails/filer_public/e4/e6/e4e6d393-1980-4539-8a3b-9165172aebbe/burger-luma-002_low.jpg__1024x768_q85_subsampling-2.jpg",
+    "description": "blablubliblablubli"
+  },
+
+  {
+    "name": "King Burger",
+    "variants": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 8,
+        "medium": 9,
+        "large": 10
+      }
+    ],
+    "image": "https://luma-delikatessen.ch/magazin-media/filer_public_thumbnails/filer_public/e4/e6/e4e6d393-1980-4539-8a3b-9165172aebbe/burger-luma-002_low.jpg__1024x768_q85_subsampling-2.jpg",
+    "description": "blablubliblablubli"
+  },
+
+  {
+    "name": "Pita Burger",
+    "variants": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 6,
+        "medium": 7,
+        "large": 8
+      }
+    ],
+    "image": "https://luma-delikatessen.ch/magazin-media/filer_public_thumbnails/filer_public/e4/e6/e4e6d393-1980-4539-8a3b-9165172aebbe/burger-luma-002_low.jpg__1024x768_q85_subsampling-2.jpg",
+    "description": "blablubliblablubli"
+  }
+]
